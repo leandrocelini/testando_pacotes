@@ -23,10 +23,6 @@
                 "tests/Leandro/SON"
             ]
 
-
-        },
-        "config": {
-            "bin-dir": "bin/"
         }
 
     }
